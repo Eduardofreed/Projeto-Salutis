@@ -22,16 +22,16 @@ Filas desorganizadas, lentidão no acolhimento e falta de visibilidade do tempo 
 ## Documentação
 | #   | Documento                                                         | Conteúdo                                                   |
 | --- | ----------------------------------------------------------------- | ---------------------------------------------------------- |
-| 01  | [Visão e Escopo](docs/01-visao-e-escopo.md)                       | Termo de abertura, personas, escopo, premissas, restrições |
-| 02  | [Requisitos Funcionais](docs/02-requisitos-funcionais.md)         | RF por módulo, prioridade MoSCoW, critérios de aceite      |
-| 03  | [Requisitos Não Funcionais](docs/03-requisitos-nao-funcionais.md) | Desempenho, segurança, LGPD, acessibilidade etc.           |
-| 04  | [Regras de Negócio](docs/04-regras-de-negocio.md)                 | Manchester, prioridade legal, regras de fila               |
-| 05  | [User Stories](docs/05-user-stories.md)                           | Histórias com critérios de aceite (Gherkin)                |
-| 06  | [Financeiro](docs/06-financeiro.md)                               | Custos, orçamento, cenários, modelo de receita             |
-| 07  | [Riscos](docs/07-riscos.md)                                       | Matriz de riscos e mitigações                              |
-| 08  | [Arquitetura e Stack](docs/08-arquitetura-e-stack.md)             | Visão técnica sugerida e integrações                       |
-| 09  | [Roadmap](docs/09-roadmap.md)                                     | Releases, sprints e Definition of Done                     |
-| 10  | [Protótipo (Lovable)](docs/10-prototipo-lovable.md)               | Link, páginas, cobertura de requisitos, arquitetura MVC    |
+| 01  | [Visão e Escopo](docs/visao-e-escopo.md)                       | Termo de abertura, personas, escopo, premissas, restrições |
+| 02  | [Requisitos Funcionais](docs/requisitos-funcionais.md)         | RF por módulo, prioridade MoSCoW, critérios de aceite      |
+| 03  | [Requisitos Não Funcionais](docs/requisitos-nao-funcionais.md) | Desempenho, segurança, LGPD, acessibilidade etc.           |
+| 04  | [Regras de Negócio](docs/regras-de-negocio.md)                 | Manchester, prioridade legal, regras de fila               |
+| 05  | [User Stories](docs/user-stories.md)                           | Histórias com critérios de aceite (Gherkin)                |
+| 06  | [Financeiro](docs/financeiro.md)                               | Custos, orçamento, cenários, modelo de receita             |
+| 07  | [Riscos](docs/riscos.md)                                       | Matriz de riscos e mitigações                              |
+| 08  | [Arquitetura e Stack](docs/arquitetura-e-stack.md)             | Visão técnica sugerida e integrações                       |
+| 09  | [Roadmap](docs/roadmap.md)                                     | Releases, sprints e Definition of Done                     |
+| 10  | [Protótipo (Lovable)](docs/prototipo-lovable.md)               | Link, páginas, cobertura de requisitos, arquitetura MVC    |
 | —   | [Backlog](docs/backlog.md)                                        | Épicos e issues prontos para o GitHub                      |
 
 ## Equipe
