@@ -1,6 +1,6 @@
 <img width="2400" height="1792" alt="Salutis-logo" src="https://github.com/user-attachments/assets/9ee6bf90-d270-4823-8e98-b2afe484faa9" />
 
-# ⛑️ Salutis
+# Salutis
 
 > Plataforma digital de acolhimento, triagem e gestão de espera hospitalar.
 
@@ -9,7 +9,7 @@
 ## Sobre
 Filas desorganizadas, lentidão no acolhimento e falta de visibilidade do tempo de espera sobrecarregam a equipe de saúde e desgastam pacientes, principalmente idosos e pessoas com doenças crônicas. O Salutis oferece **check-in digital, pré-triagem, classificação de risco, fila em tempo real e notificação de chamada**.
 
-## 🚀 Protótipo
+## Protótipo
 **Demo navegável:** https://pixel-perfect-playback-9267.lovable.app
 
 | Módulo | Link |
@@ -47,4 +47,4 @@ Filas desorganizadas, lentidão no acolhimento e falta de visibilidade do tempo 
 3. Crie um **GitHub Project** (Board) com as colunas: `A Fazer`, `Fazendo`, `Em Revisão`, `Feito`.
 4. Veja o [CONTRIBUTING](CONTRIBUTING.md) para fluxo de branches e PRs.
 
-> ⚠️ Projeto acadêmico (protótipo). Não usar com dados reais de pacientes sem avaliação jurídica e regulatória (ver [Riscos](docs/07-riscos.md)).
+Projeto acadêmico (protótipo). Não usar com dados reais de pacientes sem avaliação jurídica e regulatória (ver [Riscos](docs/riscos.md)).
